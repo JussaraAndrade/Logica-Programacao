@@ -6,7 +6,12 @@ namespace ProgramacaoBasica
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            /*
+            SaidaDados saidaDados = new SaidaDados();
+            saidaDados.Input();
+            saidaDados.PontoFluturante();
+            saidaDados.ConcatenaVariosElementos();
+           */
         }
     }
 }
