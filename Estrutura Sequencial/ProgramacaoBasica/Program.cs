@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ProgramacaoBasica
+﻿namespace ProgramacaoBasica
 {
     class Program
     {
@@ -12,6 +10,16 @@ namespace ProgramacaoBasica
             saidaDados.PontoFluturante();
             saidaDados.ConcatenaVariosElementos();
            */
+
+            /*
+            ProcessamentoDadosCasting processamentoDadosCasting = new ProcessamentoDadosCasting();
+            processamentoDadosCasting.Exemplo01();
+            processamentoDadosCasting.Exemplo02();
+            processamentoDadosCasting.AreaTrapeziosDouble();
+            processamentoDadosCasting.AreaTrapeziosFloat();
+            processamentoDadosCasting.ConversaoCastingDouble();
+            processamentoDadosCasting.ConversaoCastingInt();
+            */
         }
     }
 }
