@@ -21,8 +21,12 @@
             processamentoDadosCasting.ConversaoCastingInt();
             */
 
+            /*
             EntradaDados entradaDados = new EntradaDados();
-            //entradaDados.Exemplo01();
+            entradaDados.Exemplo01();
+            entradaDados.Exemplo02();
+            entradaDados.Exercicio();
+            */
         }
     }
 }
