@@ -20,6 +20,9 @@
             processamentoDadosCasting.ConversaoCastingDouble();
             processamentoDadosCasting.ConversaoCastingInt();
             */
+
+            EntradaDados entradaDados = new EntradaDados();
+            //entradaDados.Exemplo01();
         }
     }
 }
