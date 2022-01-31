@@ -27,6 +27,11 @@
             entradaDados.Exemplo02();
             entradaDados.Exercicio();
             */
+
+            /*
+            FuncoesMatematica funcoesMatematica = new FuncoesMatematica();
+            funcoesMatematica.Funcoes();
+            */
         }
     }
 }
