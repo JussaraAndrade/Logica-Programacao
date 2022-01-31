@@ -32,6 +32,11 @@
             FuncoesMatematica funcoesMatematica = new FuncoesMatematica();
             funcoesMatematica.Funcoes();
             */
+
+            /*
+            Exercicios exercicios = new Exercicios();
+            exercicios.CalculoAreaTerreno();
+            */
         }
     }
 }
